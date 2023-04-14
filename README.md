@@ -1,7 +1,5 @@
 # Hail and Wind Damage Swath (HWDS) Event Database
-Hail and Wind Damage Swath Database (HWDS). A 21-year climatology of hail damage swaths derived from daily MODIS imagery and storm reports. 
-
-
+A 21-year climatology of hail damage swaths derived from daily MODIS imagery and storm reports. 
 
 Hail and wind damage swaths (HWDSs) frequently occur during the warmest months of the growing season throughout the Midwest and Great Plains 
 but are not yet officially documented or tracked like other severe weather impacts (e.g., tornadoes and derechos). The creation of a 21-year 
