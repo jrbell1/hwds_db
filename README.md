@@ -1,4 +1,4 @@
-# hwds_db
+# Hail and Wind Damage Swath (HWDS) Event Database
 Hail and Wind Damage Swath Database (HWDS). A 21-year climatology of hail damage swaths derived from daily MODIS imagery and storm reports. 
 
 
