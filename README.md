@@ -11,4 +11,5 @@ Version 1.0 to be released late Spring/early Summer 2023.
 ![swaths](https://user-images.githubusercontent.com/75046984/232157546-2523c7be-47b6-429b-a9d0-7aa90d5096ed.png)
 
 References:
+
 Bell, J. R., A. L. Molthan, E. F. Wisinski, E. A. Gilligan, and C. J. Schultz, 2023: Developing a 21-Year Hail Damage Swath Event Database for Impact Analysis and Applications. Wea. Forecasting. Revisions Submitted April 2023.
