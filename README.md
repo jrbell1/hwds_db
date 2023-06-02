@@ -13,7 +13,7 @@ quality checks, the research team identified spatial and temporal trends from th
 ## References
 Bell, J. R., A. L. Molthan, E. F. Wisinski, E. A. Gilligan, and C. J. Schultz, 2023: Developing a 21-Year Hail Damage Swath Event Database for Impact Analysis and Applications. Wea. Forecasting. Revisions Submitted April 2023.
 
-## Conference Presentations
+## HWDS Presentations
 Bell. J. R., E. F. Wisinski, A. L. Molthan, C. J. Schultz, 2022: The Creation of a Hail Damage Swath Event Database and Follow on Applications. 2022 North American Workshop on Hail and Hailstorms. Boulder, Colorado. September 2022.
 
 Wisinski, E. F., J. R. Bell,  E. A. Gilligan, A. L. Molthan, and C. J. Schultz, 2022: Constructing an Extensive Hail Damage Swath Database Using Satellite Remote Sensing and Geographic Information Systems.38th Conference on Environmental Information Processing Technologies.  Amer. Meteor. Soc. 4A.2
@@ -21,8 +21,11 @@ Wisinski, E. F., J. R. Bell,  E. A. Gilligan, A. L. Molthan, and C. J. Schultz, 
 
 ## Current Contributors
 Mr. Jordan Bell (2020-Present NASA/Marshall Space Flight Center Earth Science Branch)
+
 Dr. Andrew Molthan (2020-Present--NASA/Marshall Space Flight Center Earth Science Branch)
+
 Dr. Christopher Schultz (2020-Present--NASA/Marshall Space Flight Center Earth Science Branch)
+
 Ms. Kaylee Sharp (2023-Present--University of Alabama in Huntsville/Earth System Science Center)
 
 ## Past Contributors
