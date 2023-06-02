@@ -20,9 +20,8 @@ Wisinski, E. F., J. R. Bell,  E. A. Gilligan, A. L. Molthan, and C. J. Schultz, 
 [Online:https://ams.confex.com/ams/102ANNUAL/meetingapp.cgi/Paper/393128] 
 
 ## Current Contributors
-Mr. Jordan Bell (2020-Present NASA/Marshall Space Flight Center Earth Science Branch)
-
-Dr. Andrew Molthan (2020-Present--NASA/Marshall Space Flight Center Earth Science Branch)
+Mr. Jordan Bell (2020-Present NASA/Marshall Space Flight Center Earth Science Branch) <br>
+Dr. Andrew Molthan (2020-Present--NASA/Marshall Space Flight Center Earth Science Branch)<br>
 
 Dr. Christopher Schultz (2020-Present--NASA/Marshall Space Flight Center Earth Science Branch)
 
