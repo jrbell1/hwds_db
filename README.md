@@ -11,7 +11,7 @@ quality checks, the research team identified spatial and temporal trends from th
 ![swaths](https://user-images.githubusercontent.com/75046984/232157546-2523c7be-47b6-429b-a9d0-7aa90d5096ed.png)
 
 ## References
-Bell, J. R., A. L. Molthan, E. F. Wisinski, E. A. Gilligan, and C. J. Schultz, 2023: Developing a 21-Year Hail Damage Swath Event Database for Impact Analysis and Applications. Wea. Forecasting. Revisions Submitted April 2023.
+Bell, J. R., E. F. Wisinski, A. L. Molthan, E. A. Gilligan, and C. J. Schultz, 2023: Developing a 21-Year Hail Damage Swath Event Database for Impact Analysis and Applications. Wea. Forecasting. Revisions Submitted April 2023.
 
 ## HWDS Presentations
 Bell. J. R., E. F. Wisinski, A. L. Molthan, C. J. Schultz, 2022: The Creation of a Hail Damage Swath Event Database and Follow on Applications. 2022 North American Workshop on Hail and Hailstorms. Boulder, Colorado. September 2022.
