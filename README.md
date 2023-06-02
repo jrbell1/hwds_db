@@ -21,19 +21,16 @@ Wisinski, E. F., J. R. Bell,  E. A. Gilligan, A. L. Molthan, and C. J. Schultz, 
 
 ## Current Contributors
 Mr. Jordan Bell (2020-Present NASA/Marshall Space Flight Center Earth Science Branch) <br>
-Dr. Andrew Molthan (2020-Present--NASA/Marshall Space Flight Center Earth Science Branch)<br>
-
-Dr. Christopher Schultz (2020-Present--NASA/Marshall Space Flight Center Earth Science Branch)
-
-Ms. Kaylee Sharp (2023-Present--University of Alabama in Huntsville/Earth System Science Center)
+Dr. Andrew Molthan (2020-Present--NASA/Marshall Space Flight Center Earth Science Branch) <br>
+Dr. Christopher Schultz (2020-Present--NASA/Marshall Space Flight Center Earth Science Branch) <br>
+Ms. Kaylee Sharp (2023-Present--University of Alabama in Huntsville/Earth System Science Center) <br>
 
 ## Past Contributors
-Ms. Emily Wisinski (2020-2023)
-Current: University of Maryland/ Department of Atmospheric and Oceanic Science
-Advisor: Dr. Maria Molina
-Past: University of Alabama in Huntsville/Department of Atmospheric and Earth Science
+Ms. Emily Wisinski (2020-2023)<br>
+Current: University of Maryland/ Department of Atmospheric and Oceanic Science <br>
+Advisor: Dr. Maria Molina <br>
+Past: University of Alabama in Huntsville/Department of Atmospheric and Earth Science <br>
 
-
-Ms. Emma Gilligan (Summer 2021--NASA Summer Internship Program)
-Past: University of Maryland Balitmore County/Department of Geography & Environmental Systems
+Ms. Emma Gilligan (Summer 2021--NASA Summer Internship Program) <br>
+Past: University of Maryland Balitmore County/Department of Geography & Environmental Systems <br>
 
