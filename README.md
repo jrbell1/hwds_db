@@ -35,8 +35,8 @@ Past: University of Alabama in Huntsville/Department of Atmospheric and Earth Sc
 Past: University of Maryland Balitmore County/Department of Geography & Environmental Systems <br>
 
 ## Contact Information
-Mr. Jordan Bell
-jordan.r.bell@nasa.gov
-jordan dot r dot bell at nasa dot gov
+Mr. Jordan Bell <br>
+jordan.r.bell@nasa.gov <br>
+jordan dot r dot bell at nasa dot gov <br>
 Twitter: @muwxman
 
