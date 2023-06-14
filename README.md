@@ -34,3 +34,9 @@ Past: University of Alabama in Huntsville/Department of Atmospheric and Earth Sc
 **Ms. Emma Gilligan** (Summer 2021--NASA Summer Internship Program) <br>
 Past: University of Maryland Balitmore County/Department of Geography & Environmental Systems <br>
 
+## Contact Information
+Mr. Jordan Bell
+jordan.r.bell@nasa.gov
+jordan dot r dot bell at nasa dot gov
+Twitter: @muwxman
+
