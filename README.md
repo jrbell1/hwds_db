@@ -11,7 +11,7 @@ quality checks, the research team identified spatial and temporal trends from th
 ![swaths](https://user-images.githubusercontent.com/75046984/232157546-2523c7be-47b6-429b-a9d0-7aa90d5096ed.png)
 
 ## References
-Bell, J. R., E. F. Wisinski, A. L. Molthan, C. J. Schultz, E. A. Gilligan, and K. G. Sharp, 2023 :Developing a Hail and Wind Damage Swath Event Database from Daily MODIS True Color Imagery and Storm Reports for Impact Analysis and Applications. Wea. Forecasting. [10.1175/WAF-D-22-0210.1](https://journals.ametsoc.org/view/journals/wefo/aop/WAF-D-22-0210.1/WAF-D-22-0210.1.xml).
+Bell, J. R., E. F. Wisinski, A. L. Molthan, C. J. Schultz, E. Gilligan, and K. G. Sharp, 2023: Developing a Hail and Wind Damage Swath Event Database from Daily MODIS True Color Imagery and Storm Reports for Impact Analysis and Applications. Wea. Forecasting, 38, 1575–158 [10.1175/WAF-D-22-0210.1](https://journals.ametsoc.org/view/journals/wefo/aop/WAF-D-22-0210.1/WAF-D-22-0210.1.xml).
 
 ## HWDS Presentations
 Bell. J. R., E. F. Wisinski, A. L. Molthan, C. J. Schultz, 2022: The Creation of a Hail Damage Swath Event Database and Follow on Applications. 2022 North American Workshop on Hail and Hailstorms. Boulder, Colorado. September 2022.
@@ -33,6 +33,9 @@ Past: University of Alabama in Huntsville/Department of Atmospheric and Earth Sc
 
 **Ms. Emma Gilligan** (Summer 2021--NASA Summer Internship Program) <br>
 Past: University of Maryland Balitmore County/Department of Geography & Environmental Systems <br>
+
+**Ms. Sydney Rau** (Summer 2021--NASA Summer Internship Program) <br>
+Past: University of Alabama in Huntsville/Department of Atmospheric and Earth Science <br>
 
 ## Contact Information
 Mr. Jordan Bell <br>
