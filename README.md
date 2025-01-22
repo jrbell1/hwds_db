@@ -6,7 +6,11 @@ but are not yet officially documented or tracked like other severe weather impac
 HWDS event database using archived daily storm reports and daily true color satellite imagery. Once the database was completed and underwent 
 quality checks, the research team identified spatial and temporal trends from the confirmed swaths.
 
-**Version 1.0 to be released early Summer 2023**
+**Version 1.1 was released in late January 2024**
+
+Version 1.1 includes some minor corrections the database as well the inclusion of new metadata related to additional remote satellite acquisitions that view the entries of the HWDSs.
+
+Version 1.0 was released in early Summer 2023
 
 ![swaths](https://user-images.githubusercontent.com/75046984/232157546-2523c7be-47b6-429b-a9d0-7aa90d5096ed.png)
 
@@ -22,8 +26,8 @@ Wisinski, E. F., J. R. Bell,  E. A. Gilligan, A. L. Molthan, and C. J. Schultz, 
 ## Current Contributors
 **Mr. Jordan Bell** (2020-Present NASA/Marshall Space Flight Center Earth Science Branch) <br>
 **Dr. Andrew Molthan** (2020-Present--NASA/Marshall Space Flight Center Earth Science Branch) <br>
-**Dr. Christopher Schultz** (2020-Present--NASA/Marshall Space Flight Center Earth Science Branch) <br>
 **Ms. Kaylee Sharp** (2023-Present--University of Alabama in Huntsville/Earth System Science Center) <br>
+**Dr. Christopher Schultz** (2020-Present--NASA/Marshall Space Flight Center Earth Science Branch) <br>
 
 ## Past Contributors
 **Ms. Emily Wisinski** (2020-2023--University of Alabama in Huntsville/Department of Atmospheric and Earth Science)<br>
@@ -41,5 +45,5 @@ Past: University of Alabama in Huntsville/Department of Atmospheric and Earth Sc
 Mr. Jordan Bell <br>
 jordan.r.bell@nasa.gov <br>
 jordan dot r dot bell at nasa dot gov <br>
-Twitter: @muwxman
+X: @muwxman
 
