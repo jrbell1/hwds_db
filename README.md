@@ -38,7 +38,7 @@ Past: University of Alabama in Huntsville/Department of Atmospheric and Earth Sc
 **Ms. Emma Gilligan** (Summer 2021--NASA Summer Internship Program) <br>
 Past: University of Maryland Balitmore County/Department of Geography & Environmental Systems <br>
 
-**Ms. Sydney Rau** (Summer 2021--NASA Summer Internship Program) <br>
+**Ms. Sydney Rau** (Summer 2023--NASA Summer Internship Program) <br>
 Past: University of Alabama in Huntsville/Department of Atmospheric and Earth Science <br>
 
 ## Contact Information
